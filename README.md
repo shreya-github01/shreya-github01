@@ -1,10 +1,9 @@
-<img src="YOUR_BANNER_IMAGE_LINK" width="1000px"/>
-
-<h1 align="center">Hey Everyone 👋, I'm Shreya Shrivastava</h1>
+<h1 align="center">Hey Everyone 👋, I'm Shreya Shrivastava </h1>
 <h3 align="center">A passionate Web Developer From India 🇮🇳</h3>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="YOUR_GIF_LINK">
 🔭 I’m currently working on Myself<br>
 🌱 I’m currently learning Next.js, Node.js, and TypeScript<br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/shreya-github01E)<br>
@@ -19,11 +18,17 @@
 <a href="https://www.linkedin.com/in/shreyashri52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shreyashri52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shreyashri52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="YOUR_CODEFORCES" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shrivastavashreya32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shreyashrivast1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,10 +55,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreya-github01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreya-github01&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-![Snake animation](https://github.com/YOUR_USERNAME/shreya-github01/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
